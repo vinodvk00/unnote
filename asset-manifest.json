@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4d1ef0c.css",
+    "main.js": "/static/js/main.26eb43d9.js",
+    "static/media/notes.jpg": "/static/media/notes.da32268314c121c5f78f.jpg",
+    "static/media/Checklist.jpg": "/static/media/Checklist.6badb99b043ed46c126b.jpg",
+    "static/media/portrait-pensive-young-girl-making-notes-removebg-preview.png": "/static/media/portrait-pensive-young-girl-making-notes-removebg-preview.9db37e02d5dafe95f6ac.png",
+    "static/media/revise.jpg": "/static/media/revise.077c74d20b902f0db881.jpg",
+    "static/media/companion-removebg-preview.png": "/static/media/companion-removebg-preview.cd6ac3c91d3626fc80f2.png",
+    "static/media/Screenshot_2023-07-11_000649-removebg-preview.png": "/static/media/Screenshot_2023-07-11_000649-removebg-preview.50fe1642ba99884cf5b6.png",
+    "static/media/home-banner-background.png": "/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/index.html",
+    "main.d4d1ef0c.css.map": "/static/css/main.d4d1ef0c.css.map",
+    "main.26eb43d9.js.map": "/static/js/main.26eb43d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d1ef0c.css",
+    "static/js/main.26eb43d9.js"
+  ]
+}
